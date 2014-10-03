@@ -1,4 +1,5 @@
 ClickerSystem
 =============
 
-Substitute for tranditional clicker
+5221 Team Project
+Welcome ClickerSystem

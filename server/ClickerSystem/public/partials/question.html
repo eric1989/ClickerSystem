@@ -1,0 +1,23 @@
+
+<div class="container">
+
+    <form class="form-signin" role="form">
+
+        <div class="alert alert-info" id="alert">
+            <strong>{{answer}}</strong>
+        </div>
+
+        <h3 class="form-signin-heading">Please choose:</h3>
+        <button type="button" class="btn btn-lg btn-default btn-block choice" ng-click="choice('A')">A</button>
+        <button type="button" class="btn btn-lg btn-default btn-block choice" ng-click="choice('B')">B</button>
+        <button type="button" class="btn btn-lg btn-default btn-block choice" ng-click="choice('C')">C</button>
+        <button type="button" class="btn btn-lg btn-default btn-block choice" ng-click="choice('D')">D</button>
+
+    </form>
+
+    <form class="form-signin" role="form">
+        <button class="btn btn-primary btn-block" type="submit" ng-click="submitAnswer()">Confirm</button>
+    </form>
+
+</div>
+

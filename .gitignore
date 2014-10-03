@@ -1,0 +1,10 @@
+.gradle
+
+/.idea/workspace.xml
+.DS_Store
+/server/ClickerSystem/target
+/server/ClickerSystem/src/main/resources/application.properties 
+/server/ClickerSystem/src/resources/application.properties
+/server/ClickerSystem/app.iml
+/server/ClickerSystem/app.ipr
+/server/ClickerSystem/app.iws
